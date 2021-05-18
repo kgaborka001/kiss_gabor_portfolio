@@ -1,0 +1,50 @@
+body {
+font-size: 18px;
+
+background-color:#91C5FF;
+
+}
+
+table{
+	width:100%;
+}
+
+th, td{
+	padding:1%;
+}
+
+.cím{
+	font-size:50px;
+}
+.cím2{
+	font-size:25px;
+}
+.cím3{
+	font-size:22px;
+}
+.gomb{
+	border:2px solid #356293;
+	background-color:#4980BC;
+	border-radius:20px;
+	padding:10px;
+}
+.gomb:hover{
+	cursor:pointer;
+	background-color:#02A7FF;
+}
+.dokumentacio{
+
+}
+.kep{
+	max-width:80%;
+	height:auto;
+}
+.sor{
+	width:50%;
+}
+.sor3{
+	width:30%
+}
+.nagyszoveg{
+	font-size:50px;
+}
